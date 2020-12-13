@@ -4,8 +4,8 @@ Projeto feito em programação python com o intuito de uma aprendeizagem da ling
 
 ### COMO RODAR O PROGRAMA
 
-Há seis aquivos ao todo no programa, são eles 
-<blockquote>(clique no nome do arquivo para abrir o código):</blockquote>
+Há seis aquivos ao todo no programa, são eles:
+<blockquote>(clique no nome do arquivo para abrir o código)</blockquote>
 
 1. cadastro.py
 2. corrente.py
