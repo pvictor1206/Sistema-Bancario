@@ -16,3 +16,6 @@ Há seis aquivos ao todo no programa, são eles:
 
 Todos os arquivos têm que está em uma mesma pasta/local, o arquivo main.py é o princpial, ou seja, a execução do programa será nele. 
 
+
+### COMO USAR O PROGRAMA
+
