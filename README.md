@@ -21,7 +21,11 @@ Todos os arquivos têm que está em uma mesma pasta/local, o arquivo main.py é 
 Apos abrir o main.py, uma lista de opções na tela aparecerá. Escolha uma das opções. (lembre-se, para utlizar qualquer uma das contas, é preciso cadastrar um cliente, no caso, na opção 1)
 <img src="https://github.com/pvictor1206/Sistema-Bancario/blob/main/img01.png">
 
-Após escolher uma das opções, aparecerá outra lista de opções de acordo com a escolha, no caso a opção abaixo é para cadastrar uma conta cliente, que a partir disso, poderá cadastrar outras contas, como corrente, salário...
+Após escolher uma das opções, aparecerá outra lista de opções de acordo com a escolha, no caso a opção abaixo é para cadastrar uma conta cliente, a partir disso, poderá cadastrar outras contas, como corrente, salário...
 <img src="https://github.com/pvictor1206/Sistema-Bancario/blob/main/img02.png">
+
+Por ultimo, preencha os dados que o programa necessita.
+<img src="https://github.com/pvictor1206/Sistema-Bancario/blob/main/img03.png">
+
 
 
