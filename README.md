@@ -2,7 +2,7 @@
 
 Projeto feito em programação python com o intuito da aprendizagem da linguagem.
 
-### COMO RODAR O PROGRAMA
+### COMO ABRIR O PROGRAMA
 
 Há seis arquivos ao todo no programa, são eles:
 <blockquote>(clique no nome do arquivo para abrir o código)</blockquote>
