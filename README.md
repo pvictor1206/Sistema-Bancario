@@ -18,4 +18,6 @@ Todos os arquivos têm que está em uma mesma pasta/local, o arquivo main.py é 
 
 
 ### COMO USAR O PROGRAMA
+Apos abrir o main.py, uma lista de opções na tela aparecerá. Escolha uma das opções. (lembre-se, para utlizar qualquer uma das contas, é preciso cadastrar um cliente, no caso, na opção 1)
+<img src=”https://github.com/pvictor1206/Sistema-Bancario/blob/main/img01.png”>
 
