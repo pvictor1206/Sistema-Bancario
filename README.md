@@ -14,7 +14,7 @@ Há seis arquivos ao todo no programa, são eles:
 5. salario.py
 6. universitario.py
 
-Todos os arquivos têm que está em uma mesma pasta/local, o arquivo main.py é o princpial, ou seja, a execução do programa será nele. 
+Todos os arquivos têm que está em uma mesma pasta/local, o arquivo main.py é o princpial.Ou seja, a execução do programa será nele. 
 
 
 ### COMO USAR O PROGRAMA
